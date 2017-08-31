@@ -21,8 +21,8 @@
 return [
     'landing' => [
         'online' => '<strong>:players</strong> currently online in <strong>:games</strong> games',
-        'peak' => 'Peak, :count online users',
-        'players' => '<strong>:count</strong> registered players',
+        'peak' => 'Peak, :count 線上人數',
+        'players' => '<strong>:count</strong> 註冊玩家',
 
         'download' => [
             '_' => 'Download now',
@@ -39,10 +39,10 @@ return [
 
     'search' => [
         'advanced_link' => 'Advanced search',
-        'button' => 'Search',
-        'empty_result' => 'Nothing found!',
+        'button' => '搜尋',
+        'empty_result' => '乜都搵唔到喎大佬！',
         'missing_query' => 'Search keyword of minimum :n characters is required',
-        'title' => 'Search Results',
+        'title' => '搜尋結果',
 
         'beatmapset' => [
             'more' => ':count more beatmap search results',
