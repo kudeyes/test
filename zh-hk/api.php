@@ -21,7 +21,7 @@
 return [
     'error' => [
         'chat' => [
-            'limit_exceeded' => '你所send嘅message send得太快，請你遲啲再send過啊。',
+            'limit_exceeded' => '你啲message send得太快喇，請你遲啲再send過啦。',
         ],
     ],
 ];
