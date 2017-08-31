@@ -28,7 +28,7 @@ return [
     'list_numbered' => 'Numbered List',
     'size' => [
         '_' => '字體大細',
-        'tiny' => '超細，細到一個點',
+        'tiny' => '最細',
         'small' => '細',
         'normal' => '中',
         'large' => '大',
