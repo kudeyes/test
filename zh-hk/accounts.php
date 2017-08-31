@@ -28,7 +28,7 @@ return [
         ],
 
         'email' => [
-            'current' => '你依家喺osu!用緊嘅Email',
+            'current' => '現時Email',
             'new' => '新嘅Email',
             'new_confirmation' => '確認新嘅Email',
             'title' => 'Email',
