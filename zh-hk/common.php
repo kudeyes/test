@@ -19,26 +19,26 @@
  */
 
 return [
-    'confirmation' => 'Are you sure?',
-    'saved' => 'Saved',
+    'confirmation' => '你係咪確定好要咁做？',
+    'saved' => '儲存',
 
     'array_and' => [
         'words_connector' => ', ',
-        'two_words_connector' => ' and ',
-        'last_word_connector' => ', and ',
+        'two_words_connector' => ' 同埋 ',
+        'last_word_connector' => ', 同埋 ',
     ],
 
     'buttons' => [
-        'cancel' => 'Cancel',
-        'delete' => 'Delete',
+        'cancel' => '取消',
+        'delete' => '刪除',
         'permalink' => 'permalink',
         'post' => 'Post',
-        'reply' => 'Reply',
-        'reset' => 'Reset',
-        'save' => 'Save',
+        'reply' => '回覆',
+        'reset' => '重設',
+        'save' => '儲存',
         'saving' => 'Saving...',
         'show_more' => 'show more',
-        'upload_image' => 'upload image',
+        'upload_image' => '上傳圖片',
     ],
 
     'count' => [
@@ -53,10 +53,10 @@ return [
     ],
 
     'device' => [
-        'keyboard' => 'Keyboard',
-        'mouse' => 'Mouse',
-        'tablet' => 'Tablet',
-        'touch' => 'Touch Screen',
+        'keyboard' => '鍵盤',
+        'mouse' => '滑鼠',
+        'tablet' => '畫板',
+        'touch' => '觸控螢幕',
     ],
 
     'dropzone' => [
@@ -64,8 +64,8 @@ return [
     ],
 
     'pagination' => [
-        'previous' => 'prev',
-        'next' => 'next',
+        'previous' => '上一頁',
+        'next' => '下一頁',
     ],
 
     'score_count' => [
@@ -78,13 +78,13 @@ return [
     ],
 
     'time' => [
-        'days_ago' => ':count day ago|:count days ago',
-        'hours_ago' => ':count hour ago|:count hours ago',
-        'now' => 'now',
+        'days_ago' => ':count 日前|:count days ago',
+        'hours_ago' => ':count 個鐘前|:count hours ago',
+        'now' => '依家',
         'remaining' => 'Time Remaining',
     ],
 
     'title' => [
-        'notice' => 'Notice',
+        'notice' => '提醒',
     ],
 ];
