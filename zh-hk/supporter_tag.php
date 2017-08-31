@@ -21,7 +21,7 @@
 return [
     'user_search' => [
         'searching' => 'searching...',
-        'not_found' => "This user doesn't exist",
+        'not_found' => "你係咪打錯字？搵唔到呢個人喎。",
     ],
     'duration' => [
         'months' => ':length month|:length months|{0}',
