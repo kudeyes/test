@@ -25,7 +25,7 @@ return [
     ],
     'voting' => [
         'over' => 'Voting for this contest has ended',
-        'login_required' => '你要登入先至可以投票',
+        'login_required' => '你要登入先至可以投票。',
         'best_of' => [
             'none_played' => "It doesn't look like you played any beatmaps that qualify for this contest!",
         ],
