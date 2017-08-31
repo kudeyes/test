@@ -20,16 +20,16 @@
 
 return [
     'show' => [
-        'fallback_translation' => 'Requested page is not yet translated to the selected language (:language). Showing English version.',
-        'languages' => 'Languages',
+        'fallback_translation' => '你想搵嘅嘢重未翻譯做 (:language)，睇住英文版先啦。',
+        'languages' => '語言',
         'missing' => 'Requested page could not be found.',
         'missing_title' => 'Not Found',
         'missing_translation' => 'Requested page could not be found for currently selected language.',
         'toc' => 'Contents',
 
         'edit' => [
-            'link' => 'Show on GitHub',
-            'refresh' => 'Refresh',
+            'link' => '喺GitHub度睇',
+            'refresh' => '重新整理',
         ],
     ],
 ];
