@@ -19,7 +19,7 @@
  */
 
 return [
-    'page_description' => 'Featured artists on osu!',
+    'page_description' => '睇吓有咩作曲家係加盟咗osu!入面',
     'title' => 'Featured Artists',
 
     'admin' => [
@@ -37,7 +37,7 @@ return [
     ],
 
     'links' => [
-        'site' => 'Official Website',
+        'site' => '官方網站',
     ],
 
     'songs' => [
