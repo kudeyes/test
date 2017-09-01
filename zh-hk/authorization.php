@@ -69,7 +69,7 @@ return [
     'forum' => [
         'post' => [
             'delete' => [
-                'only_last_post' => 'Only last post can be deleted.',
+                'only_last_post' => '淨係最後個post先至可以delete.',
                 'locked' => 'Can not delete post of a locked topic.',
                 'no_forum_access' => 'Access to requested forum is required.',
                 'not_owner' => 'Only poster can delete the post.',
