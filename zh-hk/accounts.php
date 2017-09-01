@@ -24,28 +24,28 @@ return [
         'title_compact' => '設定',
 
         'avatar' => [
-            'title' => '換頭像',
+            'title' => '轉換頭像',
         ],
 
         'email' => [
-            'current' => '現時Email',
-            'new' => '新嘅Email',
-            'new_confirmation' => '確認新嘅Email',
-            'title' => 'Email',
+            'current' => '現時嘅電郵',
+            'new' => '新嘅電郵',
+            'new_confirmation' => '確認新嘅電郵',
+            'title' => '電郵',
         ],
 
         'password' => [
-            'current' => 'current password',
-            'new' => 'new password',
-            'new_confirmation' => 'password confirmation',
-            'title' => 'Password',
+            'current' => '現時嘅密碼',
+            'new' => '新嘅密碼',
+            'new_confirmation' => '確認新嘅密碼',
+            'title' => '密碼',
         ],
 
         'profile' => [
             'title' => '編輯個人資料',
 
             'user' => [
-                'user_from' => '現居地',
+                'user_from' => '居住地',
                 'user_interests' => '興趣',
                 'user_msnm' => 'Skype',
                 'user_occ' => '職業',
@@ -55,25 +55,25 @@ return [
         ],
 
         'signature' => [
-            'title' => 'Signature',
+            'title' => '署名',
             'update' => '更新',
         ],
     ],
 
     'update_email' => [
-        'email_subject' => 'osu! email change confirmation',
-        'update' => 'update',
-        'updated' => 'Email updated',
+        'email_subject' => 'osu! 更改電郵確認',
+        'update' => '更新電郵',
+        'updated' => '電郵已更新',
     ],
 
     'update_password' => [
-        'email_subject' => 'osu! password change confirmation',
-        'update' => '密碼更改',
+        'email_subject' => 'osu! 更改密碼確認',
+        'update' => '更改密碼',
         'updated' => '密碼已更改',
     ],
 
     'playstyles' => [
-        'title' => 'Playstyles',
+        'title' => '玩法',
         'mouse' => '滑鼠',
         'keyboard' => '鍵盤',
         'tablet' => '畫板',
