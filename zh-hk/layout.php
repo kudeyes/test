@@ -25,12 +25,12 @@ return [
 
     'menu' => [
         'home' => [
-            '_' => 'home',
-            'account-edit' => 'settings',
-            'friends' => 'friends',
+            '_' => '主頁',
+            'account-edit' => '設定',
+            'friends' => '朋友',
             'friends-index' => 'friends',
-            'getChangelog' => 'changelog',
-            'getDownload' => 'download',
+            'getChangelog' => '更新日誌',
+            'getDownload' => '下載',
             'getIcons' => 'icons',
             'groups-show' => 'groups',
             'index' => 'osu!',
