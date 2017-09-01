@@ -21,7 +21,7 @@
 return [
     'index' => [
         'blurb' => [
-            'important' => 'READ THIS BEFORE DOWNLOADING',
+            'important' => '下載之前同我睇下面呢段嘢先',
             'instruction' => [
                 '_' => "Installation: Once a pack has been downloaded, extract the .rar into your osu! Songs directory.
                     All songs are still .zip'd and/or .osz'd inside the pack, so osu! will need to extract the beatmaps itself the next time you go into Play mode.
@@ -39,7 +39,7 @@ return [
     ],
 
     'show' => [
-        'download' => 'Download',
+        'download' => '下載',
         'item' => [
             'cleared' => 'cleared',
             'not_cleared' => 'not cleared',
@@ -55,6 +55,6 @@ return [
 
     'require_login' => [
         '_' => 'You need to be :link to download',
-        'link_text' => 'logged in',
+        'link_text' => '登入',
     ],
 ];
