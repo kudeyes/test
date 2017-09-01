@@ -25,7 +25,7 @@ return [
     'italic' => '斜體',
     'link' => '鏈結',
     'list' => '列表',
-    'list_numbered' => 'Numbered List',
+    'list_numbered' => '數列',
     'size' => [
         '_' => '字體大細',
         'tiny' => '最細',
