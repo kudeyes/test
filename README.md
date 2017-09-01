@@ -1,1 +1,1 @@
-# Making a cantonese translate for new osu! homepage
+# Cantonese Translate WIP
